@@ -1,0 +1,7 @@
+C:\Users\German\Desktop\FINAL_LUG\UIPresentacion\ENTIDADES\bin\Debug\ENTIDADES.dll
+C:\Users\German\Desktop\FINAL_LUG\UIPresentacion\ENTIDADES\bin\Debug\ENTIDADES.pdb
+C:\Users\German\Desktop\FINAL_LUG\UIPresentacion\ENTIDADES\obj\Debug\ENTIDADES.csprojResolveAssemblyReference.cache
+C:\Users\German\Desktop\FINAL_LUG\UIPresentacion\ENTIDADES\obj\Debug\ENTIDADES.dll
+C:\Users\German\Desktop\FINAL_LUG\UIPresentacion\ENTIDADES\obj\Debug\ENTIDADES.pdb
+C:\Users\German\Desktop\FINAL_LUG\UIPresentacion\ENTIDADES\bin\Debug\DATOS.dll
+C:\Users\German\Desktop\FINAL_LUG\UIPresentacion\ENTIDADES\bin\Debug\DATOS.pdb

@@ -1,0 +1,5 @@
+C:\Users\German\Desktop\FINAL_LUG\UIPresentacion\DATOS\bin\Debug\DATOS.dll
+C:\Users\German\Desktop\FINAL_LUG\UIPresentacion\DATOS\bin\Debug\DATOS.pdb
+C:\Users\German\Desktop\FINAL_LUG\UIPresentacion\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\German\Desktop\FINAL_LUG\UIPresentacion\DATOS\obj\Debug\DATOS.dll
+C:\Users\German\Desktop\FINAL_LUG\UIPresentacion\DATOS\obj\Debug\DATOS.pdb

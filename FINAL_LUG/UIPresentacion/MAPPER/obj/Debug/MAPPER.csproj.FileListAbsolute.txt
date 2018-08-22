@@ -1,0 +1,9 @@
+C:\Users\German\Desktop\FINAL_LUG\UIPresentacion\MAPPER\bin\Debug\MAPPER.dll
+C:\Users\German\Desktop\FINAL_LUG\UIPresentacion\MAPPER\bin\Debug\MAPPER.pdb
+C:\Users\German\Desktop\FINAL_LUG\UIPresentacion\MAPPER\bin\Debug\DATOS.dll
+C:\Users\German\Desktop\FINAL_LUG\UIPresentacion\MAPPER\bin\Debug\ENTIDADES.dll
+C:\Users\German\Desktop\FINAL_LUG\UIPresentacion\MAPPER\bin\Debug\DATOS.pdb
+C:\Users\German\Desktop\FINAL_LUG\UIPresentacion\MAPPER\bin\Debug\ENTIDADES.pdb
+C:\Users\German\Desktop\FINAL_LUG\UIPresentacion\MAPPER\obj\Debug\MAPPER.csprojResolveAssemblyReference.cache
+C:\Users\German\Desktop\FINAL_LUG\UIPresentacion\MAPPER\obj\Debug\MAPPER.dll
+C:\Users\German\Desktop\FINAL_LUG\UIPresentacion\MAPPER\obj\Debug\MAPPER.pdb
