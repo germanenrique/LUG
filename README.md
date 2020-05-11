@@ -7,7 +7,7 @@ Este debia cumplir ciertos requisitos que son los siguientes:
 - [x] Stored procedure
 - [x] Un ABM desconectado
 - [x] Transacciones
-- [x] Loguin para ingresar a la aplicación
+- [x] Login para ingresar a la aplicación
 - [x] Que posea un campo cifrado
 - [x] Que sea en 2 idiomas
 - [x] Estadisticas/Chart
